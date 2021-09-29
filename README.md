@@ -107,6 +107,7 @@ o	+------+-------------------------------------+
 •	When done properly, the final object should look something like this (there are only 3 children each in this image):
 
 **BTC-TEST and ETHEREUM (ETH)**
+
 ![Picture3](https://user-images.githubusercontent.com/83662813/135198164-99d72064-2791-439e-81c2-464320dcee92.gif)
 
 •	You should now be able to select child accounts (and thus, private keys) by accessing items in the coins dictionary like so: coins[COINTYPE][INDEX]['privkey'].
